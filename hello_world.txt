@@ -1,0 +1,2 @@
+This is my first test text document, for the Odin Project.
+Just writing some stuff down to test git staging and committing.
